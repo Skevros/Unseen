@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-unseen — find, decode, strip, and craft hidden text in Unicode.
+unseen find, decode, strip, and craft hidden text in Unicode.
 
 Some characters are invisible to humans (and to approval dialogs) but are read
 by LLMs, agents, chat apps, and code review tools. Attackers use them to smuggle
