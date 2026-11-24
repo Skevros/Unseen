@@ -18,8 +18,8 @@ It handles:
 - **Zero-width** stego carriers (`U+200B/C/D`, `U+2060`, `U+FEFF`, …)
 - Other invisible/format characters
 
-It **does not** false-positive on legitimate **flag emoji** (🏴 England/Scotland/Wales
-use tag characters) — a mistake even Microsoft's and AWS's first detection rules made.
+It **does not** false-positive on legitimate flag emoji (🏴 England/Scotland/Wales
+use tag characters)
 
 ## Install
 
